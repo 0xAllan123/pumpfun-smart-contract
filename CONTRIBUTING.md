@@ -16,7 +16,7 @@ Thank you for your interest in contributing to the Pump.fun Smart Contract! This
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract.git
+   git clone https://github.com/0xAllan123/Pumpfun-Smart-Contract.git
    cd pumpfun-smart-contract
    ```
 
@@ -225,9 +225,9 @@ Contributors will be recognized in:
 
 ## 📞 Getting Help
 
-- **GitHub Issues**: [Create an issue](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/0xAllan123/Pumpfun-Smart-Contract/issues)
 - **Telegram**: [@Tr1030109](https://t.me/Tr1030109)
-- **Discord**: 0xapp123
+- **Discord**: goldenledger
 
 ## 📄 License
 

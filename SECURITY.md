@@ -25,7 +25,7 @@ Please report security vulnerabilities to our security team through one of these
 
 - **Email**: eros1030109@gmail.com
 - **Telegram**: [@Tr1030109](https://t.me/Tr1030109) (DM only)
-- **Discord**: 0xapp123 (DM only)
+- **Discord**: goldenledger (DM only)
 
 ### 3. Provide Detailed Information
 
@@ -160,7 +160,7 @@ anchor build
 
 - **Email**: eros1030109@gmail.com
 - **Telegram**: [@Tr1030109](https://t.me/Tr1030109)
-- **Discord**: 0xapp123
+- **Discord**: goldenledger
 
 ### Emergency Contacts
 

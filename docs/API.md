@@ -353,10 +353,10 @@ The API implements the following rate limits:
 ## Support
 
 For API support:
-- **Documentation**: [GitHub Wiki](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract/wiki)
-- **Issues**: [GitHub Issues](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract/issues)
+- **Documentation**: [GitHub Wiki](https://github.com/0xAllan123/Pumpfun-Smart-Contract/wiki)
+- **Issues**: [GitHub Issues](https://github.com/0xAllan123/Pumpfun-Smart-Contract/issues)
 - **Telegram**: [@Tr1030109](https://t.me/Tr1030109)
-- **Discord**: 0xapp123
+- **Discord**: goldenledger
 
 ---
 

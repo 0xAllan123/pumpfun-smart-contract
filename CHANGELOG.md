@@ -86,7 +86,7 @@ To add entries to this changelog, please follow the [Keep a Changelog](https://k
 
 ## Links
 
-- [GitHub Repository](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract)
-- [Documentation](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract#readme)
-- [Issues](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract/issues)
-- [Releases](https://github.com/Tronzit-Veca/Pumpfun-Smart-Contract/releases) 
+- [GitHub Repository](https://github.com/0xAllan123/Pumpfun-Smart-Contract)
+- [Documentation](https://github.com/0xAllan123/Pumpfun-Smart-Contract#readme)
+- [Issues](https://github.com/0xAllan123/Pumpfun-Smart-Contract/issues)
+- [Releases](https://github.com/0xAllan123/Pumpfun-Smart-Contract/releases) 
