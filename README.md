@@ -156,7 +156,7 @@ test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
 
 ## 📞 Support
 
-- **Telegram**: `@0xgoldenledger`  
+- **Telegram**: `@oxgoldenledger`  
 - **Discord**: `goldenledger`  
 - **GitHub Issues**: use the repository’s *Issues* tab for bug reports and feature requests.
 
